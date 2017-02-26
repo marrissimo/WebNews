@@ -1,0 +1,2 @@
+# WebNews
+Supervised Classificator
